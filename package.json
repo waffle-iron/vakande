@@ -1,0 +1,33 @@
+{
+  "name": "vakande",
+  "version": "1.0.0",
+  "description": "Vakande REST API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vakande/vakande.git"
+  },
+  "keywords": [
+    "rest",
+    "http",
+    "node"
+  ],
+  "author": "Vakande",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vakande/vakande/issues"
+  },
+  "homepage": "https://github.com/Vakande/vakande#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.2",
+    "mocha": "^5.0.0"
+  },
+  "devDependencies": {
+    "request": "^2.83.0"
+  }
+}
