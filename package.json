@@ -2,9 +2,9 @@
   "name": "vakande",
   "version": "1.0.0",
   "description": "Vakande REST API.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "nyc --reporter=html --reporter=text _mocha --timeout=3000",
+    "test": "nyc _mocha --timeout=3000",
     "start": "node src/index.js",
     "lint": "eslint src test || exit 0",
     "dev": "nodemon src/index.js",
