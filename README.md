@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/Vakande/vakande.png?columns=all)](https://waffle.io/Vakande/vakande?utm_source=badge)
 # Vakande
 
 [![Build Status](https://travis-ci.org/Vakande/vakande.svg?branch=master)](https://travis-ci.org/Vakande/vakande)
